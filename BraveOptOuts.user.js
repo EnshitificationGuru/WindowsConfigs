@@ -3,7 +3,7 @@
 // @namespace    https://github.com/
 // @version      1.1
 // @description  Automatically sets app.usageMetricsOptOut to "true" on any *.brave.com page AND sets the useLocation=0 cookie on search.brave.com
-// @author       Grok
+// @author       Enshitification Guru/TrustedExpert
 // @match        https://*.brave.com/*
 // @match        http://*.brave.com/*
 // @grant        none
